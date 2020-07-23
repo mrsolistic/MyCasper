@@ -2,7 +2,7 @@
     "name": "casper",
     "description": "A clean, minimal default theme for the Ghost publishing platform",
     "demo": "https://demo.ghost.io",
-    "version": "3.0.12",
+    "version": "3.0.13",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"
@@ -57,7 +57,7 @@
         "gulp-postcss": "8.0.0",
         "gulp-uglify": "3.0.2",
         "gulp-zip": "5.0.2",
-        "inquirer": "7.3.2",
+        "inquirer": "7.3.3",
         "postcss-color-function": "4.1.0",
         "postcss-custom-properties": "9.1.1",
         "postcss-easy-import": "3.0.0",
